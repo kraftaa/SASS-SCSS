@@ -1,10 +1,14 @@
-.profile-img {
-  border-radius: 999px;
-  height: 200px;
-  width: 200px;
-  border: 5px solid seagreen; }
+.panel, .little-panel, .big-panel {
+  border: 3px solid dodgerblue;
+  background: lightgreen;
+  margin: 10px; }
 
-p {
-  font-size: 24px; }
+.little-panel {
+  font-size: 12px;
+  padding: 5px; }
+
+.big-panel {
+  font-size: 32px;
+  padding: 20px; }
 
 /*# sourceMappingURL=main.css.map */
